@@ -2,3 +2,6 @@ site_name: MCSS Broadcasting Docs
 repo_url: https://github.com/mcss-broadcasting/mcss-broadcasting.github.io
 edit_uri: edit/master/docs/
 theme: readthedocs
+
+pages:
+  - 'Introduction': 'index.md'
