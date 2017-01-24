@@ -12,3 +12,7 @@ This documentation applies to the Blackmagic ATEM-based HD studios listed below:
 These studios, as well as this documentation, are still under construction.
 
 This documentation _does not_ apply to Mount Carmel Elementary, Riverton Elementary, Riverton Intermediate, or any other studios built around vBrick streaming encoder products.
+
+---
+
+Our documentation is graciously hosted by ReadTheDocs, and you can find build information and other stats for our docs [here.](http://readthedocs.org/projects/mcss-broadcastinggithubio/)
