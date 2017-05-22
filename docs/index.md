@@ -27,3 +27,5 @@ The general idea is that video and audio are produced separately, with audio bei
 |               |                             
 +---------------+                             
 ```
+
+In our studio, the video mixer and audio mixer are dedicated, purpose-built devices, however the recording/streaming system is simply a PC with a video capture card.
