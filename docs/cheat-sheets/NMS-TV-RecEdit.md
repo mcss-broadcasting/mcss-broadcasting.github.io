@@ -15,7 +15,9 @@ _Based on the Lenovo ThinkStation C30 Chassis_
 **RAM:** 8GB DDR3
 
 **Storage:**
+
 - ``C:\`` 500GB Crucial SSD
+
 - ``E:\`` 2TB RAID1 controlled via Intel Rapid Storage Technology
 
 **Graphics:** [NVIDIA Quadro 600](https://www.nvidia.com/content/PDF/data-sheet/nv-ds-quadro-k600-us.pdf)
