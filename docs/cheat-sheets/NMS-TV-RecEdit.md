@@ -4,6 +4,10 @@
 
 _Based on the Lenovo ThinkStation C30 Chassis_
 
+**Hostname:** ``NMS-TV-RecEdit``
+
+**Authentication:** Local
+
 **Operating System:** Windows 7 Pro
 
 **CPU:** Dual Intel Xeon Quad-Cores
