@@ -23,3 +23,10 @@ _Based on the Lenovo ThinkStation C30 Chassis_
 **Graphics:** [NVIDIA Quadro 600](https://www.nvidia.com/content/PDF/data-sheet/nv-ds-quadro-k600-us.pdf)
 
 This PC's primary purpose is recording/streaming the finished output of the broadcast studio via Open Broadcaster (OBS). It can also be used as an editing workstation, and it's worth noting that the Quadro 600 GPU is CUDA 2.1 capable, so it will work with modern editors like DaVinci Resolve.
+
+The storage configuration is redundant, and will tolerate 1 mechanical hard drive failure before losing any data. This storage array is managed through the Intel Rapid Storage Technology application, found in the system tray.
+
+#### FAQs:
+
+- What do I do if I get an error or warning from Intel Rapid Storage Technology Application?
+  - Report it immediately, as this could mean that a hard drive in your machine is failing.
