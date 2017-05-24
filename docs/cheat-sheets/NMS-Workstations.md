@@ -26,7 +26,7 @@ This PC's primary purpose is recording/streaming the finished output of the broa
 
 The storage configuration is redundant, and will tolerate 1 mechanical hard drive failure before losing any data. This storage array is managed through the Intel Rapid Storage Technology application, found in the system tray.
 
-#### FAQs:
+**FAQs:**
 
 - What do I do if I get an error or warning from Intel Rapid Storage Technology Application?
   - Report it immediately, as this could mean that a hard drive in your machine is failing.
