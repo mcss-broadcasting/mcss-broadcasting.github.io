@@ -6,3 +6,5 @@ theme_dir: 'theme_override'
 
 pages:
   - 'Introduction': 'index.md'
+  - 'Cheat Sheets':
+    - 'NMS Record/Edit Workstation' : 'cheat-sheets/NMS-TV-RecEdit.md'
