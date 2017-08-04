@@ -6,5 +6,8 @@ theme_dir: 'theme_override'
 
 pages:
   - 'Introduction': 'index.md'
+  - 'Video How-To':
+    - 'Broadcast Video Basics': 'how-to/video/video-basics.md'
+    - 'Video Mixer Basics': 'how-to/video/video-mixer-basics.md'
   - 'Maintenance Cheat Sheets':
     - 'NMS': 'cheat-sheets/NMS-Maintenance.md'
