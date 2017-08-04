@@ -5,9 +5,9 @@ This page lists all the key information for troubleshooting/maintenance on the N
 # Network Information
 | Device           | IP Address    |
 |------------------|---------------|
-| CasparCG PC      | 10.30.0.90/22 |
-| ATEM Video Mixer | 10.30.0.91/22 |
-| Record/Edit PC   | 10.30.0.92/22 |
+| CasparCG PC      | 10.30.0.220/22 |
+| ATEM Video Mixer | 10.30.0.221/22 |
+| Record/Edit PC   | 10.30.0.222/22 |
 
 # PC Information
 
@@ -19,7 +19,7 @@ _Based on the Lenovo ThinkStation C30 Chassis_
 
 **Hostname:** ``NMS-TV-RecEdit``
 
-**IP Address:** 10.30.0.92/22
+**IP Address:** 10.30.0.222/22
 
 **Authentication:** Local
 
@@ -64,7 +64,7 @@ _Based on the Lenovo ThinkStation C30 Chassis_
 
 **Hostname:** ``NMS-TV-CasparCG``
 
-**IP Address:** 10.30.0.90/22
+**IP Address:** 10.30.0.220/22
 
 **Authentication:** Local
 
