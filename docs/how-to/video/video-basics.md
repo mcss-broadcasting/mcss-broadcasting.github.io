@@ -21,3 +21,13 @@ But TVs don't use pencils and pens to draw pictures. They use tiny colored dots 
 In the picture above, there aren't very many pixels. It's only about 40 pixels wide and 30 pixels high. This is the **resolution** of the picture, or how many pixels it has. 30x40 is a very low resolution; using ``length x width`` we can find that there's only 1200 pixels in that picture of Dory. Real broadcast equipment is _much_ higher resolution. Common movie resolutions include ``1280x720``(aka 720p HD), ``1920x1080`` (aka 1080p HD), and even ``3840x2160`` (aka 4K or UltraHD). Our studio operates at ``1920x1080`` resolution, meaning that each frame we produce has over 2 million pixels in it! This is how we can produce high quality images like this using nothing but little colored squares.
 
 ![](http://res.cloudinary.com/simpleview/image/upload/crm/huntsville/USSRC-DavidsonCtr032013-4997dKeim0_c10420ce-5056-a36a-08f038dcbd77606f.jpg)
+
+# How We Modify Video
+
+Now you know how we send and display video, but that's not enough to make a finished broadcast. Sure, displaying video on a screen from one camera is cool, but we need to do more. We need to switch between a bunch of cameras, show intro animations with our logo, and other fancy effects. This means we'll have to make changes to our video frames before they get to the display.
+
+We do this with a **video mixer**. These are specially built devices that let us switch between multiple video sources, overlay one video on top of another, and do other fancy effects like fades and even green-screening.
+
+Our video mixer looks like this (you can see it in the equipment rack).
+
+![](http://www.markertek.com/productImage/450x450/BMD-SWATEMTVSTHD.JPG)
