@@ -6,5 +6,5 @@ theme_dir: 'theme_override'
 
 pages:
   - 'Introduction': 'index.md'
-  - 'Equipment Info':
-    - 'NMS Workstation PCs' : 'cheat-sheets/NMS-Workstations.md'
+  - 'Maintenance Cheat Sheets':
+    - 'NMS': 'cheat-sheets/NMS-Maintenance.md'
