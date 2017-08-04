@@ -1,3 +1,16 @@
+# NMS Maintenance Information
+
+This page lists all the key information for troubleshooting/maintenance on the NMS Studio.
+
+# Network Information
+| Device           | IP Address    |
+|------------------|---------------|
+| CasparCG PC      | 10.30.0.90/22 |
+| ATEM Video Mixer | 10.30.0.91/22 |
+| Record/Edit PC   | 10.30.0.92/22 |
+
+# PC Information
+
 ## NMS Record/Edit Workstation
 
 ![](http://www3.lenovo.com/medias/lenovo-workstation-thinkstation-c30-main.png?context=bWFzdGVyfHJvb3R8MTAwMDk3fGltYWdlL3BuZ3xoMWIvaDliLzk0MzQzNzU5MTM1MDIucG5nfGVlYTY0MWVjYjBkZWE4M2EyNTE0OGIzNjdmMWFiMmU0NzA2ZDViZmJjNGQ3NmE4ZmU5OTBlZTJmNmY4ZGFhMzM)
@@ -5,6 +18,8 @@
 _Based on the Lenovo ThinkStation C30 Chassis_
 
 **Hostname:** ``NMS-TV-RecEdit``
+
+**IP Address:** 10.30.0.92/22
 
 **Authentication:** Local
 
@@ -49,6 +64,8 @@ _Based on the Lenovo ThinkStation C30 Chassis_
 
 **Hostname:** ``NMS-TV-CasparCG``
 
+**IP Address:** 10.30.0.90/22
+
 **Authentication:** Local
 
 **Operating System:** Windows 7 Pro
@@ -64,7 +81,7 @@ _Based on the Lenovo ThinkStation C30 Chassis_
 **Graphics:**
 
 - [NVIDIA Quadro 600](https://www.nvidia.com/content/PDF/data-sheet/nv-ds-quadro-k600-us.pdf)
-- Additional GPU to be determined
+- [NVIDIA GeForce GT 210](https://www.evga.com/products/product.aspx?pn=01G-P3-1312-LR)
 
 **Key Software:**
 
