@@ -13,17 +13,17 @@ A couple important words:
 
 Modern video mixers almost always accept HDMI, SDI, or both.
 
-### HDMI
+## HDMI
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HDMI-Connector.jpg/1200px-HDMI-Connector.jpg)
 
 You've probably used HDMI before. Computers, TVs, game consoles, and countless other things use it. It's a very consumer-oriented standard, but it's also common in the broadcast world.
 
-### SDI
+## SDI
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/BNC_connector_50_ohm_male.jpg/1200px-BNC_connector_50_ohm_male.jpg)
 
 You may have never seen this before. SDI is a broadcast/professional standard; you don't see it too much in the real world. It uses BNC connectors, and it's capable of 4K and higher video.
 
-### Example Mixer Connections:
+## Example Mixer Connections:
 ![](https://www.streamingstore.com/store/images/product/atem-tv-studio-hd_3.jpg)
 
 As you can see, our mixer has connections for both HDMI and SDI devices, but it gives its final output in SDI.
