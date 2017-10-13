@@ -16,6 +16,10 @@ _Here's an example of how CasparCG can be connected to a video mixer. This setup
 
 Caspar works using a **client-server model**. That means the **client** (the part you use to control it) and the **server** (the backend part that does all the heavy lifting) are actually two separate programs that talk to each other. This is so that in large news studios, you can have one client control several computers running a server, which makes CasparCG very scalable. We don't need that, so we'll be running the client and the server on the same computer. Why am I telling you this? So you're not confused when you see "CasparCG Server" and "CasparCG Client" in your programs list!
 
+![](https://s1.postimg.org/3skppnzd8f/Client_Server_CCG.png)
+
+_The client-server model that CasparCG works on makes it very customizable and expandable, but it can be confusing to new users._
+
 You will rarely interact directly with CasparCG Server; instead you'll use the client to tell the server what to do. The client lets you arrange your media in a **rundown**, which is a lot like a playlist. You drag and drop video/audio onto the rundown in the order you want, then you can click through each one during your broadcast.
 
 ![](https://s1.postimg.org/2bq24a24hr/OSC-2.png)
