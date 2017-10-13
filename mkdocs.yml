@@ -9,5 +9,6 @@ pages:
   - 'Video How-To':
     - 'Broadcast Video Basics': 'how-to/video/video-basics.md'
     - 'Video Mixer Basics': 'how-to/video/video-mixer-basics.md'
+    - 'CasparCG Basics': 'how-to/video/casparcg-basics.md'
   - 'Maintenance Cheat Sheets':
     - 'NMS': 'cheat-sheets/NMS-Maintenance.md'
