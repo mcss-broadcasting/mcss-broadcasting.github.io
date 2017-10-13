@@ -1,8 +1,8 @@
-## What is a playout system?
+# What is a playout system?
 
 Most of the equipment in our studio is real-time, meaning it works with live things. Microphones and cameras are live media sources. But sometimes we need to use things that _aren't_ live. When we play a logo animation, show an intro, or show a weather forecast, we are using a **playout system**. It's similar to a DVD player. It plays recordings so we can use them on our live video mixer.
 
-## What is CasparCG?
+# What is CasparCG?
 
 
 
@@ -12,7 +12,7 @@ CasparCG is a playout system (the fancy broadcast term is "character generator,"
 
 _Here's an example of how CasparCG can be connected to a video mixer. This setup allows you to do things like overlay logos and text on top of the camera, play intros and short films, and play background music._
 
-## How do you control CasparCG?
+## How does CasparCG work and how do you control it?
 
 Caspar works using a **client-server model**. That means the **client** (the part you use to control it) and the **server** (the backend part that does all the heavy lifting) are actually two separate programs that talk to each other. This is so that in large news studios, you can have one client control several computers running a server, which makes CasparCG very scalable. We don't need that, so we'll be running the client and the server on the same computer. Why am I telling you this? So you're not confused when you see "CasparCG Server" and "CasparCG Client" in your programs list!
 
